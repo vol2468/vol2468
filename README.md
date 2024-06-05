@@ -5,8 +5,8 @@
 
 ## 📐 GitHub Stats
 ![vol2468's Stats](https://github-readme-stats.vercel.app/api?username=vol2468&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![vol2468's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vol2468&theme=vue-dark&hide_border=true)
-![vol2468's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vol2468&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+<!-- ![vol2468's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vol2468&theme=vue-dark&hide_border=true) -->
+<!-- ![vol2468's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vol2468&theme=vue-dark&show_icons=true&hide_border=true&layout=compact) -->
 
 ## 🏆 GitHub Trophies
 ![vol2468's Trophies](https://github-profile-trophy.vercel.app/?username=vol2468&theme=onedark&no-frame=true&no-bg=true)
